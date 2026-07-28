@@ -1,0 +1,27 @@
+vta-service/src/did_peer.rs
+  s_c8ae0c9f1434f5::t_5a1361cf0b85c8 10-12
+  s_c8ae0c9f1434f5::t_fa2c68ff43d871 270-271
+  s_c8ae0c9f1434f5::t_7c5fd0090f7233 21-31
+  s_c8ae0c9f1434f5::t_4ce7cd3a7825d3 70-90
+vta-service/src/main.rs
+  s_c8ae0c9f1434f5::t_f5b23697025c86 1620,1634,1645
+  s_c8ae0c9f1434f5::t_e50d53bef23ab5 188-199
+CHANGELOG.md
+  s_c8ae0c9f1434f5::t_6a3fdc2d9c9d40 262-283
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "573c0f6a089f1dcdb9ae95021b0f29ce2ff622cc",
+  "prompts": {},
+  "sessions": {
+    "s_c8ae0c9f1434f5": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "03cceaf2-2226-4f23-9949-03cf2c21cfa0",
+        "model": "claude-opus-4.8"
+      },
+      "human_author": "raghavendrra.m <raghavendrra.m@affinidi.com>"
+    }
+  }
+}

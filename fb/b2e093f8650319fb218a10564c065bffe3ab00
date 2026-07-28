@@ -1,0 +1,19 @@
+vta-mcp/Cargo.toml
+  s_c8ae0c9f1434f5::t_6ac8f687fe009b 13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "fbb2e093f8650319fb218a10564c065bffe3ab00",
+  "prompts": {},
+  "sessions": {
+    "s_c8ae0c9f1434f5": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "03cceaf2-2226-4f23-9949-03cf2c21cfa0",
+        "model": "claude-opus-4.8"
+      },
+      "human_author": null
+    }
+  }
+}
