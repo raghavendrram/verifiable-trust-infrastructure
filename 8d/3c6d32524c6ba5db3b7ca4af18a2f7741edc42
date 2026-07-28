@@ -1,0 +1,19 @@
+Dockerfile
+  s_c8ae0c9f1434f5::t_0e6e0645f74369 1-153
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "8d3c6d32524c6ba5db3b7ca4af18a2f7741edc42",
+  "prompts": {},
+  "sessions": {
+    "s_c8ae0c9f1434f5": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "03cceaf2-2226-4f23-9949-03cf2c21cfa0",
+        "model": "claude-opus-4.8"
+      },
+      "human_author": "raghavendrra.m <raghavendrra.m@affinidi.com>"
+    }
+  }
+}
