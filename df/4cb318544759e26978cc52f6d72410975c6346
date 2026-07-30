@@ -1,0 +1,26 @@
+vta-service/Cargo.toml
+  s_c8ae0c9f1434f5::t_bdd43a1e65ad56 4
+vta-service/src/operations/contexts.rs
+  s_c8ae0c9f1434f5::t_9f5ceafdc4efc1 70-74
+  s_c8ae0c9f1434f5::t_91c4abb7ffeb12 81-97
+  s_c8ae0c9f1434f5::t_50ca206661c801 68-69,75-80,98-102
+CHANGELOG.md
+  s_c8ae0c9f1434f5::t_fe6135aca0fa47 5,10-13,15-26
+  s_c8ae0c9f1434f5::t_17bbf9eab24dae 6-9,14,27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.17",
+  "base_commit_sha": "df4cb318544759e26978cc52f6d72410975c6346",
+  "prompts": {},
+  "sessions": {
+    "s_c8ae0c9f1434f5": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "03cceaf2-2226-4f23-9949-03cf2c21cfa0",
+        "model": "claude-opus-4.8"
+      },
+      "human_author": "raghavendrra.m <raghavendrra.m@affinidi.com>"
+    }
+  }
+}
